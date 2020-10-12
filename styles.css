@@ -1,0 +1,215 @@
+body{background-color: lightpink;/*背景色*/
+     background-attachment: fixed;
+     background-image: url(/1/bg.png);
+     background-size:1920px 1080px;
+    }
+h1 {border-style: solid;/*边框实线*/
+    border-radius:25px 25px;/*边框圆角*/
+    border-color:gainsboro;/*边框色*/
+    margin:0;/*边框默认设置*/
+    padding:0;/*边框默认设置*/
+    background-color: #FF7256;/*边框背景色*/
+    width:500px;
+    height:120px;
+    
+   
+    
+    display: block;/*显示为块*/
+    position: absolute;
+    left: 150px;
+    top: 30px;
+    
+    text-align: center;/*文字水平居中*/
+    line-height: 120px;/*文字垂直居中，数据和框高相同*/
+    font-family: 'Microsoft Yahei';/*微软雅黑*/
+    font-weight:bold;/*加粗*/
+    font-size: 50px;/*文字大小*/
+    color:#f4f4f4;/*文字为灰白色*/
+    }
+
+p.hm1 {border-style: solid;/*边框实线*/
+    border-radius:25px 25px;/*边框圆角*/
+    border-color:#FFB5C5;/*边框色*/
+    margin:0;/*边框默认设置*/
+    padding:0;/*边框默认设置*/
+    background-color:#F08080;/*边框背景色*/
+    width:300px;
+    height:80px;
+    
+   /*box-shadow: 10px 10px 5px #B03060;*//*边框阴影*/
+    
+    display: block;/*显示为块*/
+    position: absolute;
+    left: 200px;
+    top: 450px;
+    
+    text-align: center;/*文字水平居中*/
+    line-height: 80px;/*文字垂直居中，数据和框高相同*/
+    font-family: 'Microsoft Yahei';/*微软雅黑*/
+    font-weight:bold;/*加粗*/
+    font-size: 30px;/*文字大小*/
+    color:#FFB5C5;
+    }
+
+p.hm2 {border-style: solid;/*边框实线*/
+    border-radius:25px 25px;/*边框圆角*/
+    border-color:#FFB5C5;/*边框色*/
+    margin:0;/*边框默认设置*/
+    padding:0;/*边框默认设置*/
+    background-color: #F08080;/*边框背景色*/
+    width:300px;
+    height:80px;
+    
+     /*box-shadow: 10px 10px 5px #B03060;*//*边框阴影*/
+    
+    display: block;/*显示为块*/
+    position: absolute;
+    left: 200px;
+    top: 550px;
+    
+    text-align: center;/*文字水平居中*/
+    line-height: 80px;/*文字垂直居中，数据和框高相同*/
+    font-family: 'Microsoft Yahei';/*微软雅黑*/
+    font-weight:bold;/*加粗*/
+    font-size: 30px;/*文字大小*/
+    color:#FFB5C5;/*文字为灰色*/
+    }
+
+p.hm3 {border-style: solid;/*边框实线*/
+    border-radius:25px 25px;/*边框圆角*/
+    border-color:#FFB5C5;/*边框色*/
+    margin:0;/*边框默认设置*/
+    padding:0;/*边框默认设置*/
+    background-color: #F08080;/*边框背景色*/
+    width:300px;
+    height:80px;
+    
+     /*box-shadow: 10px 10px 5px #B03060;*//*边框阴影*/
+    
+    display: block;/*显示为块*/
+    position: absolute;
+    left: 200px;
+    top: 650px;
+    
+    text-align: center;/*文字水平居中*/
+    line-height: 80px;/*文字垂直居中，数据和框高相同*/
+    font-family: 'Microsoft Yahei';/*微软雅黑*/
+    font-weight:bold;/*加粗*/
+    font-size: 30px;/*文字大小*/
+    color:dimgray;/*文字为灰色*/
+    }
+
+p.hm4 {border-style: solid;/*边框实线*/
+    border-radius:25px 25px;/*边框圆角*/
+    border-color:#FFB5C5;/*边框色*/
+    margin:0;/*边框默认设置*/
+    padding:0;/*边框默认设置*/
+    background-color: #F08080;/*边框背景色*/
+    width:300px;
+    height:80px;
+    
+     /*box-shadow: 10px 10px 5px #B03060;*//*边框阴影*/
+    
+    display: block;/*显示为块*/
+    position: absolute;
+    left: 200px;
+    top: 750px;
+    
+    text-align: center;/*文字水平居中*/
+    line-height: 80px;/*文字垂直居中，数据和框高相同*/
+    font-family: 'Microsoft Yahei';/*微软雅黑*/
+    font-weight:bold;/*加粗*/
+    font-size: 30px;/*文字大小*/
+    color:#FFB5C5;/*文字为灰色*/
+    }
+
+p.mm {border-style: solid;/*边框实线*/
+    border-radius:10px 10px;/*边框圆角*/
+    border-color:#FFB5C5;/*边框色*/
+    margin:0;/*边框默认设置*/
+    padding:0;/*边框默认设置*/
+    background-color: #473C8B;/*边框背景色*/
+    width:300px;
+    height:600px;
+    
+     /*box-shadow: 10px 10px 5px #B03060;*//*边框阴影*/
+    
+    display: block;/*显示为块*/
+    position: absolute;
+    left: 1500px;
+    top: 250px;
+    
+    text-align: center;/*文字水平居中*/
+    line-height: 80px;/*文字垂直居中，数据和框高相同*/
+    font-weight:bold;/*加粗*/
+    font-size: 23px;/*文字大小*/
+    color:#FFB5C5;/*文字为灰色*/
+    }
+
+p.txt {border-style: solid;/*边框实线*/
+    border-radius:18px 18px;/*边框圆角*/
+    border-color:#FFB5C5;/*边框色*/
+    margin:0;/*边框默认设置*/
+    padding:0;/*边框默认设置*/
+    background-color: white;/*边框背景色*/
+    width:700px;
+    height:600px;
+    
+     /*box-shadow: 10px 10px 5px #B03060;*//*边框阴影*/
+    
+    display: block;/*显示为块*/
+    position: absolute;
+    left: 600px;
+    top: 250px;
+    
+    text-align: center;/*文字水平居中*/
+    line-height: 80px;/*文字垂直居中，数据和框高相同*/
+    font-weight:bold;/*加粗*/
+    font-size: 23px;/*文字大小*/
+    color:#555555;/*文字为灰色*/
+    }
+
+p.esc {border-style: solid;/*边框实线*/
+    border-radius:10px 10px;/*边框圆角*/
+    border-color:#FFB5C5;/*边框色*/
+    margin:0;/*边框默认设置*/
+    padding:0;/*边框默认设置*/
+    background-color:#36648B;/*边框背景色*/
+    width:100px;
+    height:60px;
+    
+   /*box-shadow: 10px 10px 5px #B03060;*//*边框阴影*/
+    
+    display: block;/*显示为块*/
+    position: absolute;
+    left: 200px;
+    top: 800px;
+    
+    text-align: center;/*文字水平居中*/
+    line-height: 60px;/*文字垂直居中，数据和框高相同*/
+    font-family: 'Microsoft Yahei';/*微软雅黑*/
+    font-weight:bold;/*加粗*/
+    font-size: 30px;/*文字大小*/
+    color:#FFB5C5;
+    }
+
+#bottom {
+    border: 1px solid #d4d4d4;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+    font-size: 70%;
+    line-height: 14px;
+    width:1870px;
+    height:30px;
+    
+    display: block;/*显示为块*/
+    position: absolute;
+    top:940px;
+}
+
+a {text-decoration: none;
+    font-family: 'Microsoft Yahei';/*微软雅黑*/
+    font-weight:bold;/*加粗*/
+    font-size: 30px;/*文字大小*/
+    color:whitesmoke;/*文字为灰色*/}
